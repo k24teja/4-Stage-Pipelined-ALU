@@ -161,6 +161,4 @@ The design is divided into **4 pipeline stages**, each separated by registers:
 
 ---
 
-##  Author
 
-Kaustav Kumar Kandukuri
